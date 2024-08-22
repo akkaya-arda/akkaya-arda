@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akkaya-arda
+- 👀 I’m interested in .NET Core
+- 🌱 I’m currently learning .NET Core
+- 📫 You can contact me via Instagram/E-mail
